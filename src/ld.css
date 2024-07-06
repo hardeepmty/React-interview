@@ -1,0 +1,13 @@
+/* Default light mode styles */
+.App {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+}
+
+/* Dark mode styles */
+.App.dark {
+  background-color: #333;
+  color: #f0f0f0;
+}
